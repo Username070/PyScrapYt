@@ -21,7 +21,7 @@ pip install --upgrade google-auth-oauthlib google-auth-httplib2
 ```
 
 ## Usage
-- Run the script.
+- Run the script
 ```py main.py arg1 arg2 arg3```
 - Args being:
   - YouTube API key.
